@@ -1,0 +1,35 @@
+{
+  "name": "easyjsonform",
+  "version": "1.0.0",
+  "description": "Create Forms in less than seconds",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike-rambil/easyjsonform.js.git"
+  },
+  "keywords": [
+    "easyjsonform",
+    "easy",
+    "json",
+    "form",
+    "forms",
+    "JSON",
+    "seconds",
+    "fast",
+    "mike",
+    "rambil",
+    "mike-rambil",
+    "palliparambil",
+    "micheal",
+    "micheal-palliparambil"
+  ],
+  "author": "Micheal Palliparambil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mike-rambil/easyjsonform.js/issues"
+  },
+  "homepage": "https://github.com/mike-rambil/easyjsonform.js#readme"
+}
