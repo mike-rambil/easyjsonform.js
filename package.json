@@ -1,15 +1,20 @@
 {
   "name": "easyjsonform",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Create Forms in less than seconds",
   "main": "index.ts",
+  "author": "Micheal Palliparambil <mikerambil@gmail.com>",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -b"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mike-rambil/easyjsonform.js.git"
   },
+  "files": [
+    "dist/**/*"
+  ],
   "keywords": [
     "easyjsonform",
     "easy",
@@ -26,7 +31,6 @@
     "micheal",
     "micheal-palliparambil"
   ],
-  "author": "Micheal Palliparambil",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mike-rambil/easyjsonform.js/issues"
@@ -35,5 +39,14 @@
   "dependencies": {
     "react-hook-form": "^7.52.1",
     "zod": "^3.23.8"
-  }
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "support": {
+    "backing": {
+      "npm-funding": true
+    }
+  },
+  "funding": "https://github.com/mike-rambil"
 }
