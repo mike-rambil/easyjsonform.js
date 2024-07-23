@@ -31,5 +31,9 @@
   "bugs": {
     "url": "https://github.com/mike-rambil/easyjsonform.js/issues"
   },
-  "homepage": "https://github.com/mike-rambil/easyjsonform.js#readme"
+  "homepage": "https://github.com/mike-rambil/easyjsonform.js#readme",
+  "dependencies": {
+    "react-hook-form": "^7.52.1",
+    "zod": "^3.23.8"
+  }
 }
