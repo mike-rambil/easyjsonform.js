@@ -2,8 +2,9 @@
   - [Features](#features)
   - [Installation](#installation)
   - [You can install easyjsonform via npm or yarn](#you-can-install-easyjsonform-via-npm-or-yarn)
+- [References:](#references)
 
-# Easy json Form
+# [Easy json Form](https://www.npmjs.com/package/easyjsonform)
 
 **Create forms in less than a second!** 🚀
 
@@ -25,3 +26,7 @@ You can install easyjsonform via npm or yarn:
 ```bash
 npm install my-easy-form
 ```
+
+# References
+
+[Npm Package 📦](https://www.npmjs.com/package/easyjsonform)
